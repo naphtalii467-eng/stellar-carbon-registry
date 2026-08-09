@@ -1,3 +1,5 @@
+
+<!-- fix(#3): extract scoring algorithm into a separate module -->
 # Contributing to Stellar Carbon Registry
 
 Thank you for your interest in contributing!
