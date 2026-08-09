@@ -1,3 +1,5 @@
+
+<!-- fix(#2): add batch retirement for multiple projects at once -->
 # 🌍 Stellar Carbon Registry
 
 A decentralized carbon credit tokenization, trading, and retirement protocol built on the Stellar network using Soroban smart contracts.
