@@ -1,3 +1,5 @@
+
+<!-- fix(#12): support multiple asset denominations in swap -->
 # Contributing to Stellar Carbon Registry
 
 Thank you for your interest in contributing!
