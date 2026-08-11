@@ -1,3 +1,4 @@
+// fix(#3): extract scoring algorithm into a separate module
 import { useState } from 'react';
 
 const API = {
