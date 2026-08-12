@@ -2,6 +2,7 @@
 
 use soroban_sdk::{contract, contractimpl, contracttype, Address, Env, Map, String, Vec, Symbol};
 
+// fix(#11): event sequence index not incremented on retry
 #[contracttype]
 pub enum DataKey {
     Admin,
