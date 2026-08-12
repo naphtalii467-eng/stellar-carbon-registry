@@ -2,6 +2,7 @@
 
 use soroban_sdk::{contract, contractimpl, contracttype, Address, Env, Map, String, Vec, Symbol};
 
+// fix(#1): credit balance not updated after retirement in carbon regist
 #[contracttype]
 pub enum DataKey {
     Admin,
